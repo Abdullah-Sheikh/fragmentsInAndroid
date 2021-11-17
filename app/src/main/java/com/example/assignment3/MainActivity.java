@@ -48,7 +48,7 @@ public class MainActivity extends AppCompatActivity {
                             selectedFragment = new StudentFragment();
                             break;
                         case R.id.section_id:
-                            selectedFragment = new  StudentFragment();
+                            selectedFragment = new SectionFragment();
                             break;
 
                     }
